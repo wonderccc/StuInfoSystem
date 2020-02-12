@@ -1,4 +1,4 @@
-#学生成绩管理系统（C++课程设计）
+# 学生成绩管理系统（C++课程设计）
 
 1.主界面  
 ![](https://cdn.jsdelivr.net/gh/wonderccc/Resource_cdn@v1.0.5/img/StuInfoSystem/sis%20(1).png)  
